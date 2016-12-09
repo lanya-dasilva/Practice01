@@ -1,2 +1,2 @@
 # Practice01
-First Rally app
+Just some practice
